@@ -1,0 +1,6 @@
+- to keep markdown files and bigger files, make your own git hosting.
+	- Make sure all files hosted on your own git are also a website using mkdocs and is always updated for text readers.
+- you should be able to access that via local address as well  , to clone quicker. 
+- Find the tool that writes markdown and is basic component of clickup, notion and other markdown editing tools. Host that of your own. 
+- Docs on each machine should be hosted via mkdocs and should always be readable. Of find solution to make markdown docs readable in web on each change , quicker. This approach should be speed and performance optimized for thousands of docs. 
+- 

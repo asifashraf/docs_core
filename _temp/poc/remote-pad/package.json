@@ -1,0 +1,20 @@
+{
+  "name": "remote-pad",
+  "version": "1.0.0",
+  "description": "Electron app with Socket.IO server streaming characters as you type",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "server": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["electron", "socket.io", "realtime", "pad"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "electron": "^32.0.0"
+  }
+}

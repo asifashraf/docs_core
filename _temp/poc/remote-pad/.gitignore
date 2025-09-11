@@ -1,0 +1,100 @@
+# --- Node / Electron ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+*.tsbuildinfo
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+.eslintcache
+.parcel-cache/
+*.log
+logs/
+debug.log
+*.pid
+*.seed
+*.pid.lock
+
+# Env / config secrets
+.env
+.env.*
+!/.env.example
+
+# Electron packaging output
+release-builds/
+electron-build/
+*.asar
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# --- .NET / C# ---
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet / build artifacts
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# MSBuild logs
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Rider / JetBrains
+.idea/
+
+# Generated code coverage
+coverage*.json
+coverage*.xml
+lcov.info
+
+# Crash / dumps
+*.stackdump
+*.dmp
+
+# Backup / temp
+*.bak
+*.tmp
+~$*
+
+# Logs produced by the C# listener
+log.txt
+
+# Cache
+.sonarlint/
+.sonarqube/
+
+# Python (if any incidental scripts)
+__pycache__/
+*.pyc
+
+# Git merge/patch leftovers
+*.orig
+*.rej
