@@ -8,10 +8,9 @@ if [ -z "$COMMIT_MSG" ]; then
     exit 1
 fi
 
-git pull
-
 git add .
 git commit -m "$COMMIT_MSG"
+git pull
 git push
 
 echo "All done"

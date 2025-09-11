@@ -7,9 +7,10 @@ while true; do
     fi
 
     echo "Running auto-push..."
-    git pull
+    
     git add .
     git commit -m "$1"
+    git pull
     git push
 
     echo "Waiting 60 seconds before next push..."
