@@ -1,9 +1,9 @@
 #!/bin/bash
 
-FILE_PATH="/Users/rcarrion/data/r-docs_readings/Networking/Networking for dummies all in one/b1 getting started with nw/ch003/003-Switches, Routers, and VLANs.md"
+FILE_PATH="/Users/rcarrion/data/r-docs_readings/Networking/Networking for dummies all in one/b1 getting started with nw/004-CyberSecurity/004-Cybersecurity.md"
 
 # Use sed to replace ". " with "\r\n\r\n" in place (macOS-compatible)
-sed -i '' 's/\. /. ________|________ /g' "$FILE_PATH"
+sed -i '' 's/\. /.               /g' "$FILE_PATH"
 
 sed -i '' 's/ / /g' "$FILE_PATH"
 
