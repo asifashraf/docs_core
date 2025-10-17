@@ -1,0 +1,14 @@
+
+pwd
+
+```
+qwe!@#456
+```
+
+
+ssh
+
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCuB07uRUyTduEjfXRb0vuLXpmsD/5CqY/rG0mu5GmVTagpscTnh1C4gNP8bOYR3yrLVPYEYYNw88HnH3Vx+4+dSJXxk/TL1Kh1tjHjCnq+peF949qk1NtW/awcLzs/zv6jAGA8e0+oi56tnfSzV87uit2LO8YWO6IEKcmVqJPoIit8akXeqbnv1NmdWdNEADvl/OsACRa4NzU4fyfrPBvMZNdCCUPzg9w0KvAH8IWVsYpslJEmxY8gnoauFBbTieAomBBiMX0a/oWFRvOR7B0WXzRoWSebpDWiveeHc3dhsZnHwncMEgOu+PX1g1KzMzsTXf8aOEq2dabNtpsfqD0pqoJVcHno8UE8g5zRMN3XJOpOdM9NPXV3vAwflKnPdoCf7tY/EHf2Vyy6BVvjGJueNyxGulaAa+gW6gWW4INgZRuywDYaZKiRZwAiY6x3cffit+nuVhIk/ooI8KiToNw7WFxmPsEWJpVq1DcEJ2D68cg4vGE0ejVILDd72EW0sn8= rcarrion@Ramons-MacBook-Pro.local
+
+```

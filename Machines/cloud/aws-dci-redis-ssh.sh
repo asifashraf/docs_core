@@ -1,0 +1,1 @@
+ssh -i ~/.ssh/dci.pem ubuntu@54.242.51.116
